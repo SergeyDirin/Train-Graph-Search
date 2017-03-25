@@ -1,0 +1,104 @@
+{
+  "movies": [
+    {
+      "title": "Diner",
+      "cast":[
+        "Daniel Stern",
+        "Mickey Rourke",
+        "Kevin Bacon",
+        "Tim Daly",
+        "Ellen Barkin",
+        "Paul Reiser",
+        "Kathryn Dowling",
+        "Michael Tucker",
+        "Jessica James",
+        "Colette Blonigan",
+        "Kelle Kipp",
+        "John Aquino",
+        "Richard Pierson",
+        "Claudia Cron",
+        "Steve Guttenberg"
+      ]
+    },
+    {
+      "title": "Footloose",
+      "cast":[
+        "Kevin Bacon",
+        "Lori Singer",
+        "John Lithgow",
+        "Dianne Wiest",
+        "Chris Penn",
+        "Sarah Jessica Parker",
+        "John Laughlin",
+        "Elizabeth Gorcey",
+        "Frances Lee McCain",
+        "Jim Youngs",
+        "Douglas Dirkson",
+        "Lynne Marta",
+        "Arthur Rosenberg",
+        "Timothy Scott",
+        "Alan Haufrect"
+      ]
+    },
+    {
+      "title": "Flatliners",
+      "cast":[
+        "Kiefer Sutherland",
+        "Julia Roberts",
+        "Kevin Bacon",
+        "William Baldwin",
+        "Oliver Platt",
+        "Kimberly Scott",
+        "Joshua Rudoy",
+        "Benjamin Mouton",
+        "Aeryk Egan",
+        "Kesha Reed",
+        "Hope Davis",
+        "Jim Ortlieb",
+        "John Duda",
+        "Megan Stewart",
+        "Tressa Thomas"
+      ]
+    },
+    {
+      "title": "Eat pray love",
+      "cast":[
+        "Julia Roberts",
+        "I. Gusti Ayu Puspawati",
+        "Hadi Subiyanto",
+        "Billy Crudup",
+        "Viola Davis",
+        "A. Jay Radcliff",
+        "Mike O'Malley",
+        "Ashlie Atkinson",
+        "James Franco",
+        "Lisa Roberts Gillan",
+        "Ryan O'Nan",
+        "Gita Reddy",
+        "Dwayne Clark",
+        "Jen Kwok",
+        "Mary Testa"
+      ]
+    },
+    {
+      "title": "Spotlight",
+      "cast":[
+        "Mark Ruffalo",
+        "Michael Keaton",
+        "Rachel McAdams",
+        "Liev Schreiber",
+        "John Slattery",
+        "Brian d'Arcy James",
+        "Stanley Tucci",
+        "Elena Wohl",
+        "Gene Amoroso",
+        "Doug Murray",
+        "Sharon McFarlane",
+        "Jamey Sheridan",
+        "Neal Huff",
+        "Billy Crudup",
+        "Robert B. Kennedy"
+      ]
+    }
+  ]
+}
