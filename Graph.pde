@@ -1,11 +1,38 @@
 class Graph{
-  ArrayList nodes = new ArrayList();
+  ArrayList<Node> nodes = new ArrayList<Node>();
   HashMap<String,Node> graph = new HashMap<String,Node>();
   Node end = null;
   Node start = null;
   
   JSONObject data;
   ArrayList<Node> q = new ArrayList<Node>();
+  
+  
+  void update(){
+    for(int i=0; i<nodes.size(); i++){
+      nodes.get(i).resetForce();
+      for (int j = 0; j < nodes.size(); j++){
+        nodes.get(i).applyForce(nodes.get(j));
+      }
+      nodes.get(i).update();
+    }
+  }
+  void show(){
+    for(int i=0; i<nodes.size(); i++){
+      nodes.get(i).show();
+    }
+  }
+  
+  void mousePressed(){
+    for(int i=0; i<nodes.size(); i++){
+      nodes.get(i).mousePressed();
+    }
+  }
+  void mouseReleased(){
+    for(int i=0; i<nodes.size(); i++){
+      nodes.get(i).mouseReleased();
+    }
+  }
   
   void addNode(Node n){
     nodes.add(n);
